@@ -29,8 +29,9 @@ This Kaggle dataset contains personal fitness tracking data from thirty Fitbit u
 
 ## ACT
  According to the business task , after analyzing the data I have some up with some insights that would help BellaBeat:-
-       -I found that the greater the percentage of time a user spends being highly active, the more calories they burn. So not only does the amount of              activity impact the number of calories burned, but the intensity of the activity matters too. Bellabeat can use this insight to recommend high-            intensity workouts to users who have a goal of burning calories, such as those who are interested in losing weight. Similarly, they can market              their products as tools to help women through their weight-loss journey.
-        - Users that are more active have a lower resting heart rate. Bellabeat can leverage this insight to market their products as a way to improve                users' health. According to the Mayo Clinic, "a lower heart rate at rest implies more efficient heart function and better cardiovascular                    fitness."
+ 
+-I found that the greater the percentage of time a user spends being highly active, the more calories they burn. So not only does the amount of              activity impact the number of calories burned, but the intensity of the activity matters too. Bellabeat can use this insight to recommend high-            intensity workouts to users who have a goal of burning calories, such as those who are interested in losing weight. Similarly, they can market              their products as tools to help women through their weight-loss journey.
+-Users that are more active have a lower resting heart rate. Bellabeat can leverage this insight to market their products as a way to improve                users' health. According to the Mayo Clinic, "a lower heart rate at rest implies more efficient heart function and better cardiovascular                    fitness."
  
 ## Resource which helped me for this analysis was :
    https://www.fitabase.com/media/1930/fitabasedatadictionary102320.pdf
