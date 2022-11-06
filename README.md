@@ -16,15 +16,16 @@ Bellabeat is a small company that creates health-focused smart devices for women
 
 Stakeholders-
 
-Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
-Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
-Bellabeat marketing analytics team
+* Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
+* Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
+* Bellabeat marketing analytics team
 
 ## PREPARE
 Data Source
+
 Fitbit Fitness Tracker Data
 (CC0: Public Domain, dataset made available via Mobius)
-This Kaggle dataset contains personal fitness tracking data from thirty Fitbit users. The data includes information about users’ physical activity, heart rate, and sleep monitoring. The data was collected from 4/12/2016 through 5/12/2016.
+This Kaggle dataset contains personal fitness tracking data from thirty Fitbit users. The data includes information about users’ physical activity, heart rate, and sleep monitoring. The data was collected from 4/12/2016 through 5/12/2016.@https://www.kaggle.com/datasets/arashnic/fitbit/code
 
 
 ## ACT
@@ -37,3 +38,4 @@ This Kaggle dataset contains personal fitness tracking data from thirty Fitbit u
  
 ## Resource which helped me for this analysis was :
    https://www.fitabase.com/media/1930/fitabasedatadictionary102320.pdf
+   
